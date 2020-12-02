@@ -507,7 +507,7 @@ namespace ProyekChess
                     if (x_start - x_end != 0 || y_start - y_end != 0)
                     {
                         
-                        if (Math.Abs(x_start - x_end) == 1 || Math.Abs(y_end - y_start) == 1)
+                        if ((Math.Abs(x_start - x_end) == 1&& Math.Abs(y_end - y_start) < 2) || (Math.Abs(y_end - y_start) == 1&& Math.Abs(x_start - x_end) <2 ))
                         {
                             return true;
                         }
