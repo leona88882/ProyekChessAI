@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\bin\Debug\ProyekChess.exe.config
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\bin\Debug\ProyekChess.exe
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\bin\Debug\ProyekChess.pdb
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\obj\Debug\ProyekChess.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\obj\Debug\ProyekChess.Form1.resources
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\obj\Debug\ProyekChess.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\obj\Debug\ProyekChess.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\obj\Debug\ProyekChess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\obj\Debug\ProyekChess.exe
+C:\Users\ASUS\Desktop\ProyekChess\ProyekChess\ProyekChess\obj\Debug\ProyekChess.pdb
